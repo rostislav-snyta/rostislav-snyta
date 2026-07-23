@@ -1,5 +1,11 @@
 # Hi everyone! 👋
 
-I enjoy working with numbers, logical reasoning, and uncovering insights in data.  Equally important to me are communication and a human-centered approach.  I enjoy learning new technologies and I am particularly fascinated by the practical possibilities that AI brings - whether at work, for personal development, or in everyday routines.  
+As a child, I consistently ranked high in regional Mathematics Olympiads, and that logical-analytical mindset has stayed with me ever since. I have a natural drive to constantly learn—starting with software development in 2021, moving into data analytics, and currently focusing on **AI + automation**.
 
-Currently, I am primarily seeking an analytical position, while remaining open to various data-related opportunities where analytical thinking and problem-solving are valued.
+### What I'm looking for:
+* **Roles:** Open to opportunities in **AI, automation, data analytics**, as well as **Supply Chain** (where I have the most hands-on experience).
+* **Environment:** Company culture and the team around me matter most. I thrive in a lively office environment where I can use **English** daily.
+
+### Background & Personal:
+* **Education:** Bachelor’s degree in Social Pathology and Prevention (driven by a lifelong fascination with psychology).
+* **Life outside work:** Living as healthily as possible is my primary goal—it's the core around which my life revolves. I love sports, physical activity, and continuous personal growth.
