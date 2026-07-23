@@ -1,11 +1,11 @@
 # Hi everyone! 👋
 
-As a child, I consistently ranked high in regional Mathematics Olympiads, and that logical-analytical mindset has stayed with me ever since. I have a natural drive to constantly learn—starting with software development in 2021, moving into data analytics, and currently focusing on **AI + automation**.
+As a child, I consistently ranked high in regional Mathematics Olympiads and this logical and analytical thinking has stayed with me throughout my life. On top of that, I have a need to constantly learn new things. For these reasons, in 2021 I dove into studying software development, later moving into data analytics, and currently into AI + automation.
 
-### What I'm looking for:
-* **Roles:** Open to opportunities in **AI, automation, data analytics**, as well as **Supply Chain** (where I have the most hands-on experience).
-* **Environment:** Company culture and the team around me matter most. I thrive in a lively office environment where I can use **English** daily.
+However, the most important factor for me is the people I work with and the overall company culture. That's why I'm open not only to AI, automation, or data, but also to Supply Chain, where I have the most work experience and which I've always enjoyed. I'm also someone who likes trying new things and taking on new challenges, so I'm always open to other opportunities as well.
 
-### Background & Personal:
-* **Education:** Bachelor’s degree in Social Pathology and Prevention (driven by a lifelong fascination with psychology).
-* **Life outside work:** Living as healthily as possible is my primary goal—it's the core around which my life revolves. I love sports, physical activity, and continuous personal growth.
+Learning English has been one of my top priorities for many years, so I naturally look for roles where I can use it every day. Based on experience, I can also say that the more people I have around me in the office, the happier I am.
+
+Psychology has fascinated me for most of my life, which is why I earned a Bachelor's degree in Social Pathology and Prevention.
+
+Living as healthily as possible is my primary goal – it's the core around which my entire life revolves. I love sports and physical activity, and I view continuous personal growth as one of my main purposes in life.
